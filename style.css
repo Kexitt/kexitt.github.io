@@ -15,9 +15,10 @@ height: 850px;
 width: 550px;	
 } 
 
-.photo{	
-height: 350px;
-text-align: center;
+img{
+display: block;
+margin: 0 auto;
+height: 25%;
 }
 
 .whyfrontend, .contacts, .feedback{
