@@ -11,6 +11,8 @@ background-color: white;
 }
 
 main{
+margin: 0 auto;
+padding: 10px 45px;
 font-family: Times new roman;
 font-size:20px;
 margin: 0 auto;
