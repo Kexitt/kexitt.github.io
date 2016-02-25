@@ -2,6 +2,7 @@ body{
 background: grey;
 }
 div {
+margin: 0 auto;
 width: 90mm;
 height:170mm;
 padding: 15mm 15mm 15mm 25mm;
