@@ -31,7 +31,7 @@ display: block;
 margin: 0 auto;
 height: 25%;
 }
-.whyfrontend, .contacts, .feedback{
+.line {
 padding-left: 10px;
 border-top: 2px solid gray;
 }
