@@ -1,6 +1,14 @@
 body{
 background: grey;
 }
+div {
+width: 90mm;
+height:170mm;
+padding: 15mm 15mm 15mm 25mm;
+margin: 0 auto; 
+box-shadow: -1px 3px 5px; 
+background-color: white;
+}
 
 main{
 padding: 10px 45px;
